@@ -11,7 +11,7 @@ import com.wiggins.digitalchange.widget.NumberRollingView;
 import com.wiggins.digitalchange.widget.TitleView;
 
 /**
- * @Description 自带数字滚动动画的TextView
+ * @Description 自定义数字滚动动画的TextView
  * @Author 一花一世界
  */
 public class MainActivity extends BaseActivity {
